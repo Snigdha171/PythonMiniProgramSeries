@@ -14,4 +14,4 @@
 
 
 
-> Check-out this space for other interesting codes coming up
+> Check-out this space for other exciting codes coming up
