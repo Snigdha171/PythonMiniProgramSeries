@@ -1,6 +1,6 @@
 # PythonMiniProgramSeries
 
-*Python is a simple programming language and it helps to automate most of our daily tasks. You must have gone through many tutorials to understand each topic. However, programming becomes comfortable only through practice. In this series, we will try to create simple programs using 2 or 3 concepts to help you get familiar and comfortable with Python Automation. If this sounds interesting, feel free to join us in this "Python Mini Program Series" journey. Happy Coding!!*
+*Python is a simple programming language and it helps to automate most of our daily tasks. You must have gone through many tutorials to understand each topic. However, programming becomes comfortable only through practice. In this series, we will try to create simple programs using 2 or 3 concepts to help you get familiar and comfortable with Python Automation. If this sounds interesting, feel free to join us in this "[Python Mini Program Series](https://pythonminiprogramseries.blogspot.com/)" journey. Happy Coding!!*
 
 ## Here goes the program details - 
 
