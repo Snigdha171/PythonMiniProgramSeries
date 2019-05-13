@@ -7,3 +7,11 @@
 ### [1. Python program to search data using Google Search](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/AutomateGoogleSearch) - 
 
 ```Here, we take word to be searched as an input from the user and sends http request to google search page. We read the response from the 'knowledge panel' and displays it as a result to the user. For cases where no result is returned from the knowledge pane, this programs displays the link of the topmost search.```
+
+
+
+
+
+
+
+> Check-out this space for other interesting codes coming up
