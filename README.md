@@ -8,6 +8,12 @@
 
 ```Here, we take word to be searched as an input from the user and sends http request to google search page. We read the response from the 'knowledge panel' and displays it as a result to the user. For cases where no result is returned from the knowledge pane, this programs displays the link of the topmost search.```
 
+### [2. Python program to find the frequency of words used in paragraph](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/FindWordFrequency) - 
+
+```Here, we take input from the user in form of paragrapgh.txt file that contains the content to be read. We do the basic data cleaning such as removing the punctuation, converting to standard case and removing the stop words. The program generates the 3 most commonly used words by finding the frequency of each word.```
+
+
+
 
 
 
