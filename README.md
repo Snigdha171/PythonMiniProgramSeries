@@ -12,9 +12,9 @@
 
 ```Here, we take input from the user in form of paragrapgh.txt file that contains the content to be read. We do the basic data cleaning such as removing the punctuation, converting to standard case and removing the stop words. The program generates the 3 most commonly used words by finding the frequency of each word.```
 
+### [3. Python program to search given words in a text file](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/PatternMatching) - 
 
-
-
+```Here, we takes two inputs from the user - 1) The word to be searched and 2) A text file in form of sample_input.txt file that contains the content to be read. The program generates an ouput file named sample_output.txt with the searched word highlighted.```
 
 
 
