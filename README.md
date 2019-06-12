@@ -16,8 +16,7 @@
 
 ```Here, we takes two inputs from the user - 1) The word to be searched and 2) A text file in form of sample_input.txt file that contains the content to be read. The program generates an ouput file named sample_output.txt with the searched word highlighted.```
 
-### [4. Python program to detect objects in an Image]
-(https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/ImageDetection) - 
+### [4. Python program to detect objects in an given input Image](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/ImageDetection) - 
 
 ```This program will deal with Image detection and Extraction It will detect various objects of interest and store them in separate image files.```
 
