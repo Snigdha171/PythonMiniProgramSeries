@@ -18,7 +18,11 @@
 
 ### [4. Python program to detect objects in an given input Image](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/ImageDetection) - 
 
-```This program will deal with Image detection and Extraction It will detect various objects of interest and store them in separate image files.```
+```This program deals with Image detection and Extraction It will detect various objects of interest and store them in separate image files.```
+
+### [5. Python program to connect to light-weight database](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/SQLLiteDBConnection) - 
+
+```This program help to connect to sql database, create tables and perform datamanipulations using Python```
 
 
 
