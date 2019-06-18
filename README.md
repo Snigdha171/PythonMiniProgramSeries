@@ -22,7 +22,7 @@
 
 ### [5. Python program to connect to light-weight database](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/SQLLiteDBConnection) - 
 
-```This program help to connect to sql database, create tables and perform datamanipulations using Python```
+```This program help to connect to sql database, create tables and perform data manipulations using Python```
 
 
 
