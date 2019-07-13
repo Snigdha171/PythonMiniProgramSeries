@@ -26,7 +26,8 @@
 
 ### [6. Python program to write Python Dictionary Elements to Excel File](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/DictionaryToExcel) - 
 
-```This program gives details on how to write Python Dictionary Elements into an excel file```
+```This program aims at exploring openpyxl module. It gives details on how can we write Python Dictionary Elements into an excel file```
+
 
 
 > Check-out this space for other exciting codes coming up
