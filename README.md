@@ -24,6 +24,8 @@
 
 ```This program gives the details on how to connect to sqllite database. It also explains how to create tables and insert the data. Finally, you can execute your own queries to build insights from the underlying data```
 
+### [6. Python program to write Python Dictionary Elements to Excel File](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/DictionaryToExcel) - 
 
+```This program gives details on how to write Python Dictionary Elements into an excel file```
 
 > Check-out this space for other exciting codes coming up
