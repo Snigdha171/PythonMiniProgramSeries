@@ -28,6 +28,8 @@
 
 ```This program aims at exploring openpyxl module. It gives details on how can we write Python Dictionary Elements into an excel file```
 
+### [7. Python program to generate random passwords](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/generatePassword) - 
 
+```This program is used to generate random alpha-numeric password of 8 characters```
 
 > Check-out this space for other exciting codes coming up
