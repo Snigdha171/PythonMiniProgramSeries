@@ -37,4 +37,4 @@
 ```This program is takes 2 string as input and check the amount of similarity between them. Here, we have used the concept of finding cosine of angle between the vector. Smaller the angle(i.e higher the cosine value), more similar are the sentences```
 
 
-> Check-out this space for other exciting codes coming up
+> Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks)
