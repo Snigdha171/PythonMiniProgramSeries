@@ -32,4 +32,9 @@
 
 ```This program is used to generate random alpha-numeric password of 8 characters```
 
+### [8. Python program to check similarity of 2 sentences](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/SimilarText) - 
+
+```This program is takes 2 string as input and check the amount of similarity between them. Here, we have used the concept of finding cosine of angle between the vector. Smaller the angle(i.e higher the cosine value), more similar are the sentences```
+
+
 > Check-out this space for other exciting codes coming up
