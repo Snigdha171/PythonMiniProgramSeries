@@ -40,6 +40,9 @@
 
 ```This program illustrates simple step by step process of developing a Python module that can be used generically across multiple Python Projects```
 
+### [10. Check Sentiment of Sentences](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/checkSentiment) - 
+
+```This program illustrates how you can create your own sentiment analysis algorithm to check for the percentage of positive and negative words. There are cases where "not good" is used to indicate "bad" and "not bad" is used to indicate "good". You can play around with this code to include your own cases and have fun.```
 
 
 > Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks)
