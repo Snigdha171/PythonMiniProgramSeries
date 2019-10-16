@@ -48,5 +48,9 @@
 
 ```This program illustrates how you leverage Python Debugger for tracking bugs instead of clumsy print statements. Pdb is a great tool in Python standard distribution to make use of.```
 
+### [12. File Splitter in Python](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/FileSplitter) - 
+
+```This program illustrates how you create a file splitter that can split your large files into smaller files based on the number of splits you desire.```
+
 
 > Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks)
