@@ -56,5 +56,8 @@
 
 ```This program illustrates how you scrape a website using selenium package. The package is very easy to use if one understands the html dom elements.```
 
+### [14. Image Data Scraping](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/ImageDataScraping) - 
+
+```This program illustrates how you scrape a website using selenium package. The package is very easy to use if one understands the html dom elements. The python code will help in image data download in your local folder```
 
 > Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks)
