@@ -60,4 +60,8 @@
 
 ```This program illustrates how you scrape a website using selenium package. The package is very easy to use if one understands the html dom elements. The python code will help in image data download in your local folder```
 
+### [15. Data Analysis and Model Building of health insurance dataset](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/Health-Insurance-DataAnalysis) - 
+
+```This contains end to end analysis of health insurance dataset using Python. It also covers the code for machine learning modelling to predict the charges of health insurance for the customers based on age, bmi index and other factors.```
+
 > Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks)
