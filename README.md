@@ -64,4 +64,4 @@
 
 ```This contains end to end analysis of health insurance dataset using Python. It also covers the code for machine learning modelling to predict the charges of health insurance for the customers based on age, bmi index and other factors.```
 
-> Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks)
+> Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks). You can subscribe to our channel to see the videos of the implementation - [YouTube - Tech-o-phile (A mini project hub)](https://youtube.com/channel/UCqPzucQFiyeNBZJxto4ASGg)
