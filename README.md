@@ -64,4 +64,9 @@
 
 ```This contains end to end analysis of health insurance dataset using Python. It also covers the code for machine learning modelling to predict the charges of health insurance for the customers based on age, bmi index and other factors.```
 
+### [16. Model deployment using Flask](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/Model-Deployment-Using-Flask) - 
+
+```This code is written to provide a beginner tutorial to demonstrate how flask can be used to deploy the model. We have developed a model, stored in pickle file, created a code using flask to use the pickle file to render the result on a web page.```
+
+
 > Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks). You can subscribe to our channel to see the videos of the implementation - [YouTube - Tech-o-phile (A mini project hub)](https://youtube.com/channel/UCqPzucQFiyeNBZJxto4ASGg)
