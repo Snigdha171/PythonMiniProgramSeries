@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sales forecast based on advertising spent</title>
+</head>
+<body>
+	<h1> Sales Forecast </h1>
+	
+	<form action = "{{url_for('predict')}}" method="post">
+			<input type="text" name = "newspaper" placeholder = "Newspaper Spent in $" required = "required" />
+			<input type="text" name = "radio" placeholder = "Radio Spent in $" required = "required" />
+			<input type="text" name = "tv" placeholder = "TV Spent in $" required = "required" />
+			
+			<button type="submit">Predict Sales</button>
+	</form>
+	
+	<br>
+	{{ sales_prediction_value }}
+	
+</body>
+</html>
