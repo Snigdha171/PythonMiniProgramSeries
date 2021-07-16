@@ -1,0 +1,11 @@
+1. open anaconda prompt and run pip install powerbiclient (need python > 3.5)
+
+2. you will need powerbi pro/premium license
+
+3. develop powerbi report using powerbi desktop 
+
+4. use powerbi service and credentials to publish the report
+
+5. extract groups/[group-id] and reports/[report-id] to use them in jupyter notebook
+
+6. Document referred: https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/
