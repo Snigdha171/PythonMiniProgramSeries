@@ -72,5 +72,9 @@
 
 ```This code is written to provide an introductory approach to embed powerbi report into Jupyter Notebook. The process though simple, requires some considerations before beginning. The aim is to provide hassle free pointers for integration.```
 
+### [18. Spark Vs Pandas - Placement Data Analysis](https://github.com/Snigdha171/PythonMiniProgramSeries/tree/master/Spark_Vs_Pandas_Placement_Data_Analysis) - 
+
+```This code is written to provide an introductory tutorial for common spark commands used for data analysis. This code will help in comparing pandas and spark operations on the placement data. Apache spark is an open source unified analytics engine for large scale data processing. It is 100 times faster in operation and hence preferred for big data analysis.```
+
 
 > Check-out this space for other exciting codes coming up You can also follow us on [Facebook - In It To Learn](https://www.facebook.com/In-It-To-Learn-557691821426953/?ref=bookmarks). You can subscribe to our channel to see the videos of the implementation - [YouTube - Tech-o-phile (A mini project hub)](https://youtube.com/channel/UCqPzucQFiyeNBZJxto4ASGg)
